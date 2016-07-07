@@ -1,0 +1,19 @@
+{
+  "name": "micro-node-service-registry-lib",
+  "version": "0.0.1",
+  "description": "Micronode Service Registry Gloabl Lib",
+  "author": {
+    "name": "Domenico Vacchiano",
+    "email": "info@domenicovacchiano.com.com",
+    "url": "http://www.domenicovacchiano.com"
+  },
+  "homepage": "http://www.domenicovacchiano.com/",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alchimya/micro-node-service-registry-lib.git"
+  },
+  "dependencies": {
+    "micro-node-mongo-lib":"git@github.com:alchimya/micro-node-mongo-lib.git"
+  },
+  "private": true
+}
