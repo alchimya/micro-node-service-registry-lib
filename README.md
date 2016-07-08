@@ -5,7 +5,7 @@ An utility library that helps to implements a service registry, server-side disc
 Developing a NodeJs Microservices Architecture, most of the time, you need to do some tedious operations.
 <br/>
 This library will help you with the implementation of  the service registry using the server-side discovery pattern with a NodeJs microservice.
-
+ 
 ![ScreenShot](https://raw.github.com/alchimya/micro-node-service-registry-lib/master/MicroservicesArch.png)
 
 # How to install
