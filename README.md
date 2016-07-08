@@ -6,7 +6,7 @@ Developing a NodeJs Microservices Architecture, most of the time, you need to do
 <br/>
 This library will help you with the implementation of  the service registry using the server-side discovery pattern with a NodeJs microservice.
 
-![ScreenShot](https://raw.github.com/alchimya/micro-node-service-registry-lib/master/ServiceRegistry.png)
+![ScreenShot](https://raw.github.com/alchimya/micro-node-service-registry-lib/master/MicroservicesArch.png)
 
 # How to install
 The library is depending of micro-node-mongo-lib, so it is required to setup throught npm:
