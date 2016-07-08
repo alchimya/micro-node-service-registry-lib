@@ -1,6 +1,8 @@
 # micro-node-service-registry-lib
 An utility library that helps to implements a service registry, server-side discovery, for NodeJs microservices.
 
+![ScreenShot](https://raw.github.com/alchimya/micro-node-service-registry-lib/master/ServiceRegistry.png)
+
 # What is this?
 Developing a NodeJs Microservices Architecture, most of the time, you need to do some tedious operations.
 <br/>
